@@ -26,8 +26,6 @@ await snapshot.match(new Date(), {
 });
 ```
 
-## Update snapshot
-
 ## Implementation for other language
 
 - [Go](https://github.com/NateScarlet/snapshot)
