@@ -13,7 +13,7 @@ npm install @nates/snapshot
 
 A simple setup is required for auto snapshot key, see [mocha example](./tests/setup.ts)
 
-set SNAPSHOT_UPDATE env var to true to update existed snapshot file.
+set `SNAPSHOT_UPDATE` env var to `true` to update existed snapshot file.
 
 ```typescript
 import snapshot from '@nates/snapshot';
